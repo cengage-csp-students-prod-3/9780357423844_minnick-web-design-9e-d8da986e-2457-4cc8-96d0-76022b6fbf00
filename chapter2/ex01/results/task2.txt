@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: Add your name (firstname lastname) to the multi-line comment to *template.html*
+Reason: 'Student Name: {YOUR NAME}' was found in the program output.None
+Timestamp: 2025-09-22 15:53:33.369756
+
+Status: PASSED!
+Check: 2
+Test: Add the filename to the multi-line comment to *template.html*
+Reason: 'File Name: template.html' was found in the program output.None
+Timestamp: 2025-09-22 15:53:33.369994
+
+Status: PASSED!
+Check: 3
+Test: Add today's date (MM/DD/YYYY) to the multi-line comment to *template.html*
+Reason: 'Date: {MM/DD/YYYY}' was found in the program output.None
+Timestamp: 2025-09-22 15:53:33.370201
