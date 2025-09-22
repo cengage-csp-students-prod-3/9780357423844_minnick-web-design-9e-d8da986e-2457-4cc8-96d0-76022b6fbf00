@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add an `html` tag and set the language to English.
-Reason: KeyError occurred: 'lang'
-Error : KeyError - 'lang'
-Timestamp: 2025-09-15 15:15:05.366546
+Reason: None
+Timestamp: 2025-09-22 16:25:23.182265
