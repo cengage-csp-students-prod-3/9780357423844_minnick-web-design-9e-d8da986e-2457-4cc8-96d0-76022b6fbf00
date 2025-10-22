@@ -3,46 +3,46 @@ Status: PASSED!
 Check: 2
 Test: Update the comment with **the file name**
 Reason: 'File Name: css.html' was found in the program output.None
-Timestamp: 2025-10-22 20:15:04.255295
+Timestamp: 2025-10-22 20:20:22.026921
 
 Status: PASSED!
 Check: 3
 Test: Update the comment with **today’s date** (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-10-22 20:15:04.255610
+Timestamp: 2025-10-22 20:20:22.027276
 
 Status: PASSED!
 Check: 4
 Test: Add the same image from *Task 2*
 Reason: None
-Timestamp: 2025-10-22 20:15:04.256812
+Timestamp: 2025-10-22 20:20:22.028544
 
 Status: PASSED!
 Check: 5
 Test: Add the `nav` links from *Task 3*
 Reason: None
-Timestamp: 2025-10-22 20:15:04.257832
+Timestamp: 2025-10-22 20:20:22.029573
 
 Status: PASSED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: '<p>Student Name: firstname lastname</p>' was found in the program output.None
-Timestamp: 2025-10-22 20:15:04.258308
+Timestamp: 2025-10-22 20:20:22.030068
 
 Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-10-22 20:15:04.258731
+Timestamp: 2025-10-22 20:20:22.030501
 
 Status: PASSED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: '<p>Student Name: firstname lastname</p>' was found in the program output.None
-Timestamp: 2025-10-22 20:15:05.330206
+Timestamp: 2025-10-22 20:20:23.114336
 
 Status: PASSED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: '<p>Student Name: firstname lastname</p>' was found in the program output.None
-Timestamp: 2025-10-22 20:15:06.454597
+Timestamp: 2025-10-22 20:20:24.238685
