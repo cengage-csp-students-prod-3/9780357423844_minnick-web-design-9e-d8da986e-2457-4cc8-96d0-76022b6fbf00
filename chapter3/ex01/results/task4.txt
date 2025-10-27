@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: The footer element contains an email link.
+Reason: None
+Timestamp: 2025-10-27 19:49:30.321514
+
+Status: PASSED!
+Check: 2
+Test: The email link contains the email address.
+Reason: None
+Timestamp: 2025-10-27 19:49:30.322522

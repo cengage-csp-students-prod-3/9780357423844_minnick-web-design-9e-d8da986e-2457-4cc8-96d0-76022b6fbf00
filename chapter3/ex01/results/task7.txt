@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 3
+Test: The title element contains the text 'Lessons'.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/lessons.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/lessons.html'
+Timestamp: 2025-10-27 19:49:33.575684

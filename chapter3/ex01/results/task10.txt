@@ -1,0 +1,216 @@
+
+Status: FAILED!
+Check: 1
+Test: The div with the id attribute value of 'guitar' within the main element is present in lessons.html.
+Reason: InvalidArgumentException occurred: Message: invalid argument
+  (Session info: chrome=140.0.7339.207)
+Stacktrace:
+#0 0x558b1fab6fba <unknown>
+#1 0x558b1f53b523 <unknown>
+#2 0x558b1f52310d <unknown>
+#3 0x558b1f521706 <unknown>
+#4 0x558b1f521d1a <unknown>
+#5 0x558b1f53ebe9 <unknown>
+#6 0x558b1f5d9715 <unknown>
+#7 0x558b1f5b2e32 <unknown>
+#8 0x558b1f5d8b54 <unknown>
+#9 0x558b1f5b2c03 <unknown>
+#10 0x558b1f57f7a8 <unknown>
+#11 0x558b1f580421 <unknown>
+#12 0x558b1fa7bb28 <unknown>
+#13 0x558b1fa7f87f <unknown>
+#14 0x558b1fa63c49 <unknown>
+#15 0x558b1fa80405 <unknown>
+#16 0x558b1fa494ff <unknown>
+#17 0x558b1faa4258 <unknown>
+#18 0x558b1faa4432 <unknown>
+#19 0x558b1fab5fa3 <unknown>
+#20 0x7feae509caa4 <unknown>
+#21 0x7feae5129c6c <unknown>
+
+Error : InvalidArgumentException - Message: invalid argument
+  (Session info: chrome=140.0.7339.207)
+Stacktrace:
+#0 0x558b1fab6fba <unknown>
+#1 0x558b1f53b523 <unknown>
+#2 0x558b1f52310d <unknown>
+#3 0x558b1f521706 <unknown>
+#4 0x558b1f521d1a <unknown>
+#5 0x558b1f53ebe9 <unknown>
+#6 0x558b1f5d9715 <unknown>
+#7 0x558b1f5b2e32 <unknown>
+#8 0x558b1f5d8b54 <unknown>
+#9 0x558b1f5b2c03 <unknown>
+#10 0x558b1f57f7a8 <unknown>
+#11 0x558b1f580421 <unknown>
+#12 0x558b1fa7bb28 <unknown>
+#13 0x558b1fa7f87f <unknown>
+#14 0x558b1fa63c49 <unknown>
+#15 0x558b1fa80405 <unknown>
+#16 0x558b1fa494ff <unknown>
+#17 0x558b1faa4258 <unknown>
+#18 0x558b1faa4432 <unknown>
+#19 0x558b1fab5fa3 <unknown>
+#20 0x7feae509caa4 <unknown>
+#21 0x7feae5129c6c <unknown>
+
+Timestamp: 2025-10-27 19:49:42.422403
+
+Status: FAILED!
+Check: 2
+Test: The div element with an id attribute of 'guitar' contains an h3 element with the text 'Guitar Lessons' in lessons.html.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar h3"}
+  (Session info: chrome=140.0.7339.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x558b1fab6fba <unknown>
+#1 0x558b1f53b6d0 <unknown>
+#2 0x558b1f58d2aa <unknown>
+#3 0x558b1f58d541 <unknown>
+#4 0x558b1f5db6c4 <unknown>
+#5 0x558b1f5b2e5d <unknown>
+#6 0x558b1f5d8b54 <unknown>
+#7 0x558b1f5b2c03 <unknown>
+#8 0x558b1f57f7a8 <unknown>
+#9 0x558b1f580421 <unknown>
+#10 0x558b1fa7bb28 <unknown>
+#11 0x558b1fa7f87f <unknown>
+#12 0x558b1fa63c49 <unknown>
+#13 0x558b1fa80405 <unknown>
+#14 0x558b1fa494ff <unknown>
+#15 0x558b1faa4258 <unknown>
+#16 0x558b1faa4432 <unknown>
+#17 0x558b1fab5fa3 <unknown>
+#18 0x7feae509caa4 <unknown>
+#19 0x7feae5129c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar h3"}
+  (Session info: chrome=140.0.7339.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x558b1fab6fba <unknown>
+#1 0x558b1f53b6d0 <unknown>
+#2 0x558b1f58d2aa <unknown>
+#3 0x558b1f58d541 <unknown>
+#4 0x558b1f5db6c4 <unknown>
+#5 0x558b1f5b2e5d <unknown>
+#6 0x558b1f5d8b54 <unknown>
+#7 0x558b1f5b2c03 <unknown>
+#8 0x558b1f57f7a8 <unknown>
+#9 0x558b1f580421 <unknown>
+#10 0x558b1fa7bb28 <unknown>
+#11 0x558b1fa7f87f <unknown>
+#12 0x558b1fa63c49 <unknown>
+#13 0x558b1fa80405 <unknown>
+#14 0x558b1fa494ff <unknown>
+#15 0x558b1faa4258 <unknown>
+#16 0x558b1faa4432 <unknown>
+#17 0x558b1fab5fa3 <unknown>
+#18 0x7feae509caa4 <unknown>
+#19 0x7feae5129c6c <unknown>
+
+Timestamp: 2025-10-27 19:49:43.454859
+
+Status: FAILED!
+Check: 3
+Test: The div element with an id attribute of 'guitar' contains an img element with the specified attributes in lessons.html.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar img"}
+  (Session info: chrome=140.0.7339.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x558b1fab6fba <unknown>
+#1 0x558b1f53b6d0 <unknown>
+#2 0x558b1f58d2aa <unknown>
+#3 0x558b1f58d541 <unknown>
+#4 0x558b1f5db6c4 <unknown>
+#5 0x558b1f5b2e5d <unknown>
+#6 0x558b1f5d8b54 <unknown>
+#7 0x558b1f5b2c03 <unknown>
+#8 0x558b1f57f7a8 <unknown>
+#9 0x558b1f580421 <unknown>
+#10 0x558b1fa7bb28 <unknown>
+#11 0x558b1fa7f87f <unknown>
+#12 0x558b1fa63c49 <unknown>
+#13 0x558b1fa80405 <unknown>
+#14 0x558b1fa494ff <unknown>
+#15 0x558b1faa4258 <unknown>
+#16 0x558b1faa4432 <unknown>
+#17 0x558b1fab5fa3 <unknown>
+#18 0x7feae509caa4 <unknown>
+#19 0x7feae5129c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar img"}
+  (Session info: chrome=140.0.7339.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x558b1fab6fba <unknown>
+#1 0x558b1f53b6d0 <unknown>
+#2 0x558b1f58d2aa <unknown>
+#3 0x558b1f58d541 <unknown>
+#4 0x558b1f5db6c4 <unknown>
+#5 0x558b1f5b2e5d <unknown>
+#6 0x558b1f5d8b54 <unknown>
+#7 0x558b1f5b2c03 <unknown>
+#8 0x558b1f57f7a8 <unknown>
+#9 0x558b1f580421 <unknown>
+#10 0x558b1fa7bb28 <unknown>
+#11 0x558b1fa7f87f <unknown>
+#12 0x558b1fa63c49 <unknown>
+#13 0x558b1fa80405 <unknown>
+#14 0x558b1fa494ff <unknown>
+#15 0x558b1faa4258 <unknown>
+#16 0x558b1faa4432 <unknown>
+#17 0x558b1fab5fa3 <unknown>
+#18 0x7feae509caa4 <unknown>
+#19 0x7feae5129c6c <unknown>
+
+Timestamp: 2025-10-27 19:49:44.485598
+
+Status: FAILED!
+Check: 4
+Test: The div element with an id attribute of 'guitar' contains a p element with the specified text in lessons.html.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar p"}
+  (Session info: chrome=140.0.7339.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x558b1fab6fba <unknown>
+#1 0x558b1f53b6d0 <unknown>
+#2 0x558b1f58d2aa <unknown>
+#3 0x558b1f58d541 <unknown>
+#4 0x558b1f5db6c4 <unknown>
+#5 0x558b1f5b2e5d <unknown>
+#6 0x558b1f5d8b54 <unknown>
+#7 0x558b1f5b2c03 <unknown>
+#8 0x558b1f57f7a8 <unknown>
+#9 0x558b1f580421 <unknown>
+#10 0x558b1fa7bb28 <unknown>
+#11 0x558b1fa7f87f <unknown>
+#12 0x558b1fa63c49 <unknown>
+#13 0x558b1fa80405 <unknown>
+#14 0x558b1fa494ff <unknown>
+#15 0x558b1faa4258 <unknown>
+#16 0x558b1faa4432 <unknown>
+#17 0x558b1fab5fa3 <unknown>
+#18 0x7feae509caa4 <unknown>
+#19 0x7feae5129c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar p"}
+  (Session info: chrome=140.0.7339.207); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x558b1fab6fba <unknown>
+#1 0x558b1f53b6d0 <unknown>
+#2 0x558b1f58d2aa <unknown>
+#3 0x558b1f58d541 <unknown>
+#4 0x558b1f5db6c4 <unknown>
+#5 0x558b1f5b2e5d <unknown>
+#6 0x558b1f5d8b54 <unknown>
+#7 0x558b1f5b2c03 <unknown>
+#8 0x558b1f57f7a8 <unknown>
+#9 0x558b1f580421 <unknown>
+#10 0x558b1fa7bb28 <unknown>
+#11 0x558b1fa7f87f <unknown>
+#12 0x558b1fa63c49 <unknown>
+#13 0x558b1fa80405 <unknown>
+#14 0x558b1fa494ff <unknown>
+#15 0x558b1faa4258 <unknown>
+#16 0x558b1faa4432 <unknown>
+#17 0x558b1fab5fa3 <unknown>
+#18 0x7feae509caa4 <unknown>
+#19 0x7feae5129c6c <unknown>
+
+Timestamp: 2025-10-27 19:49:45.515830
