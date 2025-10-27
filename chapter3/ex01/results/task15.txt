@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The images have been moved to the images folder.
-Reason: Assertion failed: The images folder does not exist.
-Error : AssertionError - The images folder does not exist.
-Timestamp: 2025-10-27 19:49:53.565169
+Reason: None
+Timestamp: 2025-10-27 20:25:01.458010

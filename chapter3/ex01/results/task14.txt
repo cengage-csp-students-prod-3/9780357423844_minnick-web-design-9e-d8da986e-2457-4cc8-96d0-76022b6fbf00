@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Main has a div element has an id attribute with a value of contact in contact.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/contact.html'
-Timestamp: 2025-10-27 19:49:52.497557
+Reason: None
+Timestamp: 2025-10-27 20:25:00.390293
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The div element contains 1 h2, 3 paragraph tags and one anchor tag with the proper text in contact.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/contact.html'
-Timestamp: 2025-10-27 19:49:52.497795
+Reason: None
+Timestamp: 2025-10-27 20:25:00.391556
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The div element contains an iframe element with the proper attributes in contact.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/contact.html'
-Timestamp: 2025-10-27 19:49:52.497933
+Reason: None
+Timestamp: 2025-10-27 20:25:00.392594

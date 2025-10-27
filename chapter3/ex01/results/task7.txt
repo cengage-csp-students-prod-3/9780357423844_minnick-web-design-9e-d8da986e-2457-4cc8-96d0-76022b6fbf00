@@ -1,7 +1,21 @@
 
 Status: FAILED!
+Check: 1
+Test: Update the comment with **the file name**
+Reason: Unable to find 'File Name: lessons.html' in the program.
+Error : str - AssertionError
+Timestamp: 2025-10-27 20:24:41.687457
+
+Status: FAILED!
+Check: 2
+Test: Update the comment with **today’s date** (MM/DD/YYYY)
+Reason: Unable to find 'Date: MM/DD/YYYY' in the program.
+Error : str - AssertionError
+Timestamp: 2025-10-27 20:24:41.687678
+
+Status: FAILED!
 Check: 3
 Test: The title element contains the text 'Lessons'.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/lessons.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/lessons.html'
-Timestamp: 2025-10-27 19:49:33.575684
+Reason: Assertion failed: The title element is missing.
+Error : AssertionError - The title element is missing.
+Timestamp: 2025-10-27 20:24:41.687965
