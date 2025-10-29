@@ -1,90 +1,51 @@
 /*
-Author: Marisol Sanchez
+Student Name: Marisol Sanchez
 File Name: styles.css
 Date: 01/01/2020
 */
 
-/* CSS Reset */
-body, header, nav, main, footer, h1, div, img, ul {
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
-
-/* Style rule for body and images */
 body {
-	background-color: #e4f1f6;
+    background-color: #dde3fd;
 }
 
-img {
-	max-width: 100%;
-	display: block;
+#container {
+    padding-bottom: 500px;
 }
 
-/* Style rules for mobile viewport */
-
-/* Style rule to hide tablet-desk class */
-.tablet-desk {
-    display: none;
+.box {
+    border: 1px solid #000;
+    margin: 2%;
+    padding: 2%;
+    background-color: #798ef6;
+    color: #091034;
+    width: 400px;
+    height: 170px;
 }
 
-/* Style rule for header */
-header {
-	font-family: Verdana, Arial, sans-serif;
-	text-align: center;
-    padding: 3%;
-    color: #092834;
-    margin-top: 5%;
-}
-
-/* Style rules for nav */
-nav {
-	padding: 1%;
-    margin-bottom: 1%;
-    background-color: #67afcb;
+/* sticky */
+.sticky {
     position: -webkit-sticky;
-	position: sticky;
+    position: sticky;
     top: 0;
 }
 
-nav ul {
-    list-style-type: none;
-    text-align: center;
+/* relative */
+.relative {
+    position: relative;
+    top: 90px;
+    left: 30px;
 }
 
-nav li {
-    font-size: 1.5em;
-    display: inline-block;
-    font-family: 'B612', sans-serif;
-    padding: 4%;
+/* fixed */
+.fixed {
+    position: fixed;
+    top: 90px;
+    right: 10px;
 }
 
-nav li a {
-    display: block;
-    color: #092834;
-    text-decoration: none;
-}
-
-/* Style rules for main content  */
-main {
-	display: block;
-	margin: 1% 1% 15%;
-	padding: 1%;
-    font-family: 'Crimson Pro', serif;
-    font-size: 1.5em;
-}
-
-.corner {
-    border-radius: 12px;
-}
-
-#image {
-    margin-bottom: 1%;
-}
-
-/* Style rule for footer */
-footer {
-	font-size: .70em;
-	text-align: center;
-	margin-top: 2em;
+/* absolute */
+.absolute {
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
