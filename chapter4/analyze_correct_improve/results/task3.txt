@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update the comment with your name, file name, and today's date
-Reason: Assertion failed: Name not found in comment (Student Name: Firstname Lastname)
-Error : AssertionError - Name not found in comment (Student Name: Firstname Lastname)
-Timestamp: 2025-10-29 14:06:39.037834
+Reason: None
+Timestamp: 2025-10-29 14:08:52.623517
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: File name added into the comment
-Reason: Assertion failed: File name not found in comment, (File Name: styles.css)
-Error : AssertionError - File name not found in comment, (File Name: styles.css)
-Timestamp: 2025-10-29 14:06:39.038145
+Reason: None
+Timestamp: 2025-10-29 14:08:52.623701
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update the comment with today's date
-Reason: Assertion failed: Date not found in comment, (Date: MM/DD/YYYY)
-Error : AssertionError - Date not found in comment, (Date: MM/DD/YYYY)
-Timestamp: 2025-10-29 14:06:39.038364
+Reason: None
+Timestamp: 2025-10-29 14:08:52.623860
