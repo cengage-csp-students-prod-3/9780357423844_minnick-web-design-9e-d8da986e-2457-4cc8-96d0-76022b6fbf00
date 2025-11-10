@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a declaration for the `position` property with a value of  absolute
-Reason: Assertion failed: The `position` property does not have a value of absolute.
-Error : AssertionError - The `position` property does not have a value of absolute.
-Timestamp: 2025-10-29 14:43:30.912393
+Reason: None
+Timestamp: 2025-11-10 16:53:18.223122
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a declaration for the `bottom` property and specify a value of 0
-Reason: Assertion failed: The `bottom` property does not have a value of 0.
-Error : AssertionError - The `bottom` property does not have a value of 0.
-Timestamp: 2025-10-29 14:43:30.924601
+Reason: None
+Timestamp: 2025-11-10 16:53:18.236813
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add a declaration for the `right` property and specify a value of 0
-Reason: Assertion failed: The `right` property does not have a value of 0.
-Error : AssertionError - The `right` property does not have a value of 0.
-Timestamp: 2025-10-29 14:43:30.937035
+Reason: None
+Timestamp: 2025-11-10 16:53:18.249603
