@@ -1,7 +1,7 @@
 /*
-Author: Maria Cruz
-Date: Current Date
+Author: Marisol Sanchez
 File Name: styles.css
+Date: 01/01/2020
 */
 
 /* CSS Reset */
@@ -58,9 +58,40 @@ main a {
 }
 
 /* Orange */
+.orange-hex {
+    background-color: #ff6600; 
+}
 
+.orange-rgb {
+    background-color: rgb(255, 102, 0); 
+}
+
+.orange-hsl {
+    background-color: hsl(24, 100%, 50%); 
+}
 
 /* Purple */
+.purple-hex {
+    background-color: #9900cc; 
+}
 
+.purple-rgb {
+    background-color: rgb(153, 0, 204); 
+}
+
+.purple-hsl {
+    background-color: hsl(285, 100%, 40%); 
+}
 
 /* Green */
+.green-hex {
+    background-color: #339933; 
+}
+
+.green-rgb {
+    background-color: rgb(51, 153, 51); 
+}
+
+.green-hsl {
+    background-color: hsl(120, 50%, 40%); 
+}
